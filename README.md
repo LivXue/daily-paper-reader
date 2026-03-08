@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="others/daily-paper-reader-minimal-logo.svg" alt="Daily Paper Reader Logo" width="720" />
+  <img src="others/LOGO.png" alt="Daily Paper Reader Logo" width="720" />
 </p>
 
-<h1 align="center">Daily Paper Reader</h1>
-
-<p align="center">
-  Discover, summarize, and read the latest AI papers every day
-</p>
+<h2 align="center">Your Daily Companion for Discovering and Reading AI Papers</h2>
 
 <p align="center">
   <a href="https://github.com/ziwenhahaha/daily-paper-reader/stargazers">
